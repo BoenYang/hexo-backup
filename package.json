@@ -1,0 +1,16 @@
+{
+  "name": "hexo-backup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hexo-fs": "^0.1.5",
+    "hexo-util": "^0.6.0",
+    "hexo-log": "^0.1.6"
+  }
+}
