@@ -1,16 +1,20 @@
 {
-  "name": "hexo-backup",
+  "name": "hexo-backup-ybw",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "boenyang",
   "license": "ISC",
-  "description": "",
+  "description": "Hexo auto backup and console restore plugin",
   "dependencies": {
     "hexo-fs": "^0.1.5",
     "hexo-util": "^0.6.0",
-    "hexo-log": "^0.1.6"
+    "hexo-log": "^0.1.2"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/BoenYang/hexo-backup.git"
   }
 }
