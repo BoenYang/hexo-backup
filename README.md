@@ -4,7 +4,9 @@ A Hexo plugin for maintance your blog.
 
 # Features
 - Auto backup after deploy
+- Auto backup theme
 - Restore backuped blog use one command
+- Auto restore installed plugin
 
 # Installation
 ```
