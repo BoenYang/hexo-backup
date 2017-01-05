@@ -1,11 +1,21 @@
 {
   "name": "hexo-maintance",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "BoenYang",
+   "keywords": [
+    "hexo",
+    "backup",
+    "git",
+    "restore"
+  ],
+  "author": {
+    "name": "BoenYang",
+    "email": "yang0927mail@gmail.com",
+    "url": "https://BoenYang.github.io"
+  },
   "license": "ISC",
   "description": "Hexo maintance tool",
   "dependencies": {
@@ -16,5 +26,14 @@
    "repository": {
     "type": "git",
     "url": "https://github.com/BoenYang/hexo-backup.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hexojs/hexo-backup.git/issues"
+  },  
+  "maintainers": [
+    {
+      "name": "BoenYang",
+      "email": "yang0927mail@gmail.com"
+    }
+  ]
 }
