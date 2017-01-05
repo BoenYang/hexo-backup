@@ -1,6 +1,6 @@
 {
   "name": "hexo-maintance",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,10 +25,10 @@
   },
    "repository": {
     "type": "git",
-    "url": "https://github.com/BoenYang/hexo-backup.git"
+    "url": "https://github.com/BoenYang/hexo-maintance.git"
   },
   "bugs": {
-    "url": "https://github.com/hexojs/hexo-backup/issues"
+    "url": "https://github.com/hexojs/hexo-maintance/issues"
   },  
   "maintainers": [
     {
