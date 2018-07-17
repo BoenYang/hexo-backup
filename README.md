@@ -29,9 +29,10 @@ backup:
 ```
 1. hexo init MyBlog
 2. cd MyBlog
-3. npm install hexo-maintance --save
-4. //Configurate your backup repo and branch
-5. hexo Restore
+3. npm install
+4. npm install hexo-maintance --save
+5. //Configurate your backup repo and branch
+6. hexo Restore
 ```
 
 # TODO
